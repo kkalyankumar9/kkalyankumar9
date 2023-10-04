@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm k kalyan kumar</h1>
-<h3 align="center">Aspiring MERN Stack Web Developer.</h3>
+<h3 align="center"> MERN Stack Web Developer.</h3>
 <img align="right" width="400" src="https://www.gtpsoftwares.com/images/mern/mern-banner.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkalyankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="kkalyankumar9" /> </p>
 
