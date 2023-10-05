@@ -2,14 +2,10 @@
 <h3 align="center"> MERN Stack Web Developer.</h3>
 <img align="right" width="400" src="https://www.gtpsoftwares.com/images/mern/mern-banner.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkalyankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="kkalyankumar9" /> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development.**
-
 - 💬 Ask me about **MERN**
-
-
 <a href="https://kkalyankumar9.github.io/">Portfolio</a>
-<h3 align="left">Connect with me:kkalyan2312@gmail.com</h3>
+<h3 align="left">Connect with me: kkalyan2312@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/k-kalyan-kumar-a44321163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/k-kalyan-kumar-a44321163/" height="30" width="40" /></a>
 </p>
