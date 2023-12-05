@@ -3,6 +3,7 @@
 <h3 align="center" style="border-bottom: 2px solid #ddd; padding-bottom: 10px;">MERN Stack Developer</h3>
 
 <img align="right" width="400" src="https://www.gtpsoftwares.com/images/mern/mern-banner.jpg"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkalyankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="kkalyankumar9" /> </p>
   
 - 💬 Ask me about **MERN**
@@ -18,7 +19,7 @@
 
 
 <h3 align="left">Tech Stack:</h3>
-<p>
+<p >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" alt="css3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black" alt="javascript" />
@@ -33,9 +34,17 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=3bc7bd&labelColor=black" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=black" alt="styled-components" />
 </p>
+<h3 align="left" >GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkalyankumar9&show_icons=true&locale=en&layout=compact" alt="kkalyankumar9" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkalyankumar9&show_icons=true&locale=en&layout=compact" alt="kkalyankumar9" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkalyankumar9&show_icons=true&locale=en" alt="kkalyankumar9" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkalyankumar9&show_icons=true&locale=en" alt="kkalyankumar9" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkalyankumar9&" alt="kkalyankumar9" /></p>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkalyankumar9&" alt="kkalyankumar9" />
+</div>
+
