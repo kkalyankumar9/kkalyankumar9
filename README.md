@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm </h1>
 <h1 align="center"> k kalyan kumar</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&center=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+GenAI" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=purple&center=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+GenAI" alt="Typing SVG" /></a></p>
+
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" />
 <img align="right" width="400" src="https://www.gtpsoftwares.com/images/mern/mern-banner.jpg"/>
 
@@ -12,12 +13,15 @@
 
 
 <P>👨‍💻 All of my projects are available <a href="https://kkalyankumar9.github.io/">Portfolio</a></P>
-<p align="left">Connect with me: kkalyan2312@gmail.com</p>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/k-kalyan-kumar-a44321163/" target="blank">
-    Linkedin
-  </a>
-</p>
+<div align="left">
+  <p> ✉️ Connect with me: <a href="mailto:kkalyan2312@gmail.com">kkalyan2312@gmail.com</a></p>
+  <p>
+    🌐 <a href="https://linkedin.com/in/https://www.linkedin.com/in/k-kalyan-kumar-a44321163/" target="_blank">
+     Linkedin
+    </a>
+  </p>
+</div>
+
 
 
 <h3 align="left">💻 Tech Stack:</h3>
@@ -35,6 +39,10 @@
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=f44d27&labelColor=black" alt="git" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=3bc7bd&labelColor=black" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=black" alt="styled-components" />
+    <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&labelColor=black" alt="GenAI" />
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&labelColor=black" alt="Prompt Engineering" />
+
+
 </p>
 <h3 align="left" > 📊 GitHub Stats:</h3>
 
