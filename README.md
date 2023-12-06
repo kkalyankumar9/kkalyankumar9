@@ -3,7 +3,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=purple&center=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+GenAI" alt="Typing SVG" /></a></p>
 
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" />
-<img align="right" width="400" src="https://www.gtpsoftwares.com/images/mern/mern-banner.jpg"/>
+<img align="right" width="400" src="https://sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkalyankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="kkalyankumar9" /> </p>
   
