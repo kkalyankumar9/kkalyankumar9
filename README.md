@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkalyankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="kkalyankumar9" /> </p>
   
 ## 💫 About Me:
-- 💬 Ask me about **MERN**
+<p>💬 Ask me about MERN</p>
   
 
 
