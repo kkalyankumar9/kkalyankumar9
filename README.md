@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm </h1>
 <h1 align="center"> k kalyan kumar</h1>
-<h3 align="center" style="border-bottom: 2px solid #ddd; padding-bottom: 10px;">MERN Stack Developer</h3>
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&center=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+GenAI" alt="Typing SVG" /></a></p>
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" />
 <img align="right" width="400" src="https://www.gtpsoftwares.com/images/mern/mern-banner.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkalyankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="kkalyankumar9" /> </p>
   
+## 💫 About Me:
 - 💬 Ask me about **MERN**
   
 
+
+<P>👨‍💻 All of my projects are available <a href="https://kkalyankumar9.github.io/">Portfolio</a></P>
 <p align="left">Connect with me: kkalyan2312@gmail.com</p>
-<a href="https://kkalyankumar9.github.io/">Portfolio</a>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/k-kalyan-kumar-a44321163/" target="blank">
     Linkedin
