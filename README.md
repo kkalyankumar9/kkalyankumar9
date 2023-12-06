@@ -16,7 +16,7 @@
 <div align="left">
   <p> ✉️ Connect with me: <a href="mailto:kkalyan2312@gmail.com">kkalyan2312@gmail.com</a></p>
   <p>
-    🌐 <a href="https://linkedin.com/in/https://www.linkedin.com/in/k-kalyan-kumar-a44321163/" target="_blank">
+    🌐 <a href="https://www.linkedin.com/in/k-kalyan-kumar-a44321163/" target="_blank">
      Linkedin
     </a>
   </p>
