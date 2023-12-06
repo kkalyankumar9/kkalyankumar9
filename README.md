@@ -15,13 +15,14 @@
 <P>👨‍💻 All of my projects are available <a href="https://kkalyankumar9.github.io/">Portfolio</a></P>
 <div align="left">
   <p> ✉️ Connect with me: <a href="mailto:kkalyan2312@gmail.com">kkalyan2312@gmail.com</a></p>
+
+</div>
   <h3 align="left">    🌐 Socials:</h3>
   <p>
   <a href="https://www.linkedin.com/in/k-kalyan-kumar-a44321163/" target="_blank">
      Linkedin
     </a>
   </p>
-</div>
 
 
 
