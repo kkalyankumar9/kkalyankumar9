@@ -11,7 +11,7 @@
 <p>💬 Ask me about MERN</p>
 
 <P>👨‍💻 All of my projects are available <a href="https://kkalyankumar9.github.io/">Portfolio</a></P>
-<P> 📄 Know about my experience <a href="https://drive.google.com/file/d/1VJ3uSk5a1GFm747SpX4n6EdGP1ov1w0g/view?usp=sharing">Portfolio</a></P>
+<P> 📄 Know about my experience <a href="https://drive.google.com/file/d/1VJ3uSk5a1GFm747SpX4n6EdGP1ov1w0g/view?usp=sharing">Resume</a></P>
 <div align="left">
   <p> ✉️ Connect with me: <a href="mailto:kkalyan2312@gmail.com">kkalyan2312@gmail.com</a></p>
 
